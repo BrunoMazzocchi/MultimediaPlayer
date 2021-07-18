@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dN9lb2UNtKYMe4i/gnZwV1iZndDn59BQ02R9BY7vtPc8kHzvlomBl3HfgohoJHUj+JjmxxqGapQLX9f5lU4PrA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Bruno\\Documents\\GITHUB\\MultimediaPlayer\\Multimedia\\Multimedia\\Multimedia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\videolan.libvlc.windows\\3.0.16\\videolan.libvlc.windows.3.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
